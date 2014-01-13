@@ -13,7 +13,7 @@ In order to launch the VM follow the instructions bellow:
 
 Clone this repository:
 ```shell
-git clone git@github.com:JamesAwesome/vagrant-swift.git
+git clone https://github.com/JamesAwesome/vagrant-swift.git
 ```
 
 Run Vagrant:
